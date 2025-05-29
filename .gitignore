@@ -1,0 +1,7 @@
+#Ignore compiled binaries
+*.exe
+*.out
+*.o
+
+#Ignore habit data file 
+habits.txt
